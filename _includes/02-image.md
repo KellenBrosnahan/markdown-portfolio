@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![First search result from Google](https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png)
